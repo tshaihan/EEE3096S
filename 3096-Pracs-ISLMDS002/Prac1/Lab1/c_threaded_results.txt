@@ -1,0 +1,143 @@
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 48.4047 ms
+
+// 2 threads
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 16.1823 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 4.887 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 7.94701 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 30.615 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 17.014 ms
+
+
+//4 threads
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 17.1373 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.44294 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 15.8037 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 11.5298 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 8.96885 ms
+
+//8 threads
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 13.7334 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 50.9627 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 8.89159 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.85782 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 35.7373 ms
+
+
+//16 threads
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.10009 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 22.6518 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 4.45057 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 12.6938 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 4.95551 ms
+
+
+//32 threads
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.39299 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 8.52252 ms
+
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 2.33213 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 4.14823 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 13.9058 ms
+
+
+

@@ -1,0 +1,201 @@
+//float (32 bit)
+//threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.60306 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 24.481 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 8.549 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.769 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 7.058 ms
+
+//float (32 bit)
+//unthreaded
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 6.853331 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 12.584015 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.544006 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.769006 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.648006 ms
+End Unthreaded Test
+
+
+//double (64 bit)
+//threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 4.573 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 7.595 ms
+
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.125 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.39 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.11 ms
+
+
+
+//double (64 bit)
+//unthreaded
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 59.200040 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 38.085026 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 38.085026 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 8.789006 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 8.789006 ms
+End Unthreaded Test
+
+
+//__fp16 (16 bit)
+//threaded
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.37695 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.31595 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 4.97993 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 3.24996 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 7.0429 ms
+
+//__fp16 (16 bit)
+//unthreaded
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 100.118169 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 37.537688 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 37.596686 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 106.082114 ms
+End Unthreaded Test
+
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 98.906172 ms
+End Unthreaded Test
+
+
+
+
