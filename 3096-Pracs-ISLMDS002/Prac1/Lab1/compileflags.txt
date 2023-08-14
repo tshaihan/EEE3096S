@@ -247,55 +247,57 @@ Threads created :-)
 All threads have quit
 Time taken for threads to run = 3.40601 ms
 
-//O2 & funroll-loops
-Clock resolution: 1 ns
-Threads created :-)
-All threads have quit
-Time taken for threads to run = 3.30002 ms
+//O3, Ofast (fp16)
 
 Clock resolution: 1 ns
 Threads created :-)
 All threads have quit
-Time taken for threads to run = 2.92702 ms
+Time taken for threads to run = 9.14094 ms
 
 Clock resolution: 1 ns
 Threads created :-)
 All threads have quit
-Time taken for threads to run = 4.92204 ms
+Time taken for threads to run = 2.40098 ms
 
 Clock resolution: 1 ns
 Threads created :-)
 All threads have quit
-Time taken for threads to run = 14.1621 ms
+Time taken for threads to run = 2.56798 ms
 
 Clock resolution: 1 ns
 Threads created :-)
 All threads have quit
-Time taken for threads to run = 3.39403 ms
-
-//O2, O3, Ofast, funroll loops
+Time taken for threads to run = 2.34798 ms
 
 Clock resolution: 1 ns
 Threads created :-)
 All threads have quit
-Time taken for threads to run = 2.53398 ms
+Time taken for threads to run = 4.65997 ms
+
+//O2, O3, Ofast, funroll loops (double)
 
 Clock resolution: 1 ns
 Threads created :-)
 All threads have quit
-Time taken for threads to run = 2.37099 ms
+Time taken for threads to run = 2.37902 ms
 
 Clock resolution: 1 ns
 Threads created :-)
 All threads have quit
-Time taken for threads to run = 4.85697 ms
+Time taken for threads to run = 2.36003 ms
 
 Clock resolution: 1 ns
 Threads created :-)
 All threads have quit
-Time taken for threads to run = 4.43397 ms
+Time taken for threads to run = 2.37403 ms
 
 Clock resolution: 1 ns
 Threads created :-)
 All threads have quit
-Time taken for threads to run = 6.30496 ms
+Time taken for threads to run = 5.54106 ms
+
+Clock resolution: 1 ns
+Threads created :-)
+All threads have quit
+Time taken for threads to run = 2.31502 ms
+
